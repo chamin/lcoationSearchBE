@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "c4ceb1ea-ad97-45c2-8fd3-559b45409c4a",
+		"name": "Demo-test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33912843"
+	},
+	"item": [
+		{
+			"name": "creation",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "getSearchData",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "edit",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
